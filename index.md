@@ -13,6 +13,5 @@ Welcome to my portfolio showcasing hands-on labs in IT support, networking, secu
 
 
 ## 🎓 Certifications 
-<a href="https://www.credly.com/users/curtis-nichols"> <img src="[YOUR_BADGE_IMAGE_URL](https://www.credly.com/badges/62221411-4180-4686-af3c-e6f247f442b9/public_url)" width="120" alt="A+ Badge"> </a> 
-<a href="https://www.credly.com/users/curtis-nichols"> <img src="YOUR_BADGE_IMAGE_URL" width="120" alt="Security+ Badge"> </a> 
-<a href="https://www.credly.com/users/curtis-nichols"> <img src="YOUR_BADGE_IMAGE_URL" width="120" alt="Google Cybersecurity Badge"> </a>
+<a href="https://www.credly.com/users/curtis-nichols"> <img src="[YOUR_BADGE_IMAGE_URL](https://www.credly.com/badges/62221411-4180-4686-af3c-e6f247f442b9/public_url)" width="120" alt="All Badges"> </a> 
+
