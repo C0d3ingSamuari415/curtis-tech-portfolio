@@ -13,5 +13,6 @@ Welcome to my portfolio showcasing hands-on labs in IT support, networking, secu
 
 
 ## 🎓 Certifications 
-- Certification 1 – Issuer, Year
-- Certification 2 – Issuer, Year
+- Certification 1 – CompTIA A+ - CompTIA, 2025
+  View Certification 
+- Certification 2 – CompTIA Security +, 2026
