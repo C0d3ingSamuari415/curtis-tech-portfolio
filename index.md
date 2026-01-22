@@ -11,3 +11,7 @@ Welcome to my portfolio showcasing hands-on labs in IT support, networking, secu
   Platforms: AWS, Azure, GCP  
   [View Project](projects/cloud-deployment.md)
 
+
+## 🎓 Certifications 
+- Certification 1 – Issuer, Year
+- Certification 2 – Issuer, Year
