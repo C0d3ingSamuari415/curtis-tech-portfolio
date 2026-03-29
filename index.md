@@ -1,6 +1,6 @@
-# Curtis's IT Portfolio
+# Curtis's IT and Security Portfolio
 
-Welcome to my portfolio showcasing hands-on labs in IT support, networking, security, and cloud engineering.
+Welcome to my portfolio showcasing hands-on labs in IT support, networking, security, cloud engineering, and AI.
 
 ## 🔧 Projects
 - **Windows Troubleshooting Lab**  
