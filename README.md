@@ -4,8 +4,7 @@ Full Tech Portfolio, including projects
 📡 Network Connectivity Test — Ping Diagnostic
 This project demonstrates a basic but essential networking diagnostic using the Linux ping command. It verifies connectivity, latency, and packet reliability when communicating with an external host.
 
-![Ping Test Screenshot](images/ping project-1.png)
-
+![Ping Test Screenshot](images/ping-test.png)
 
 🧪 What This Test Shows
 Executed a 6‑packet ICMP ping to google.com to measure network responsiveness.
