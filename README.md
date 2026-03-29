@@ -19,7 +19,7 @@ Demonstrated use of Linux command‑line tools for network troubleshooting.
 
 Showcased ability to interpret RTT statistics (min/avg/max/mdev) for performance analysis.
 
-🌐 Network Path Analysis — Traceroute to Google
+🌐 Network Path Analysis — IPV4 Traceroute to Google
 This project demonstrates how to analyze the path packets take across the Internet using the traceroute command. It reveals each hop between your machine and Google’s servers, helping diagnose routing issues, latency spikes, or ISP‑level problems.
 
 ![Traceroute Screenshot](images/traceroute-ipv4.png)
@@ -49,3 +49,30 @@ Some intermediate routers did not respond (timeouts), which is normal behavior.
 Final hop resolved to Google’s server with ~22 ms response time.
 
 Route confirms a healthy connection with no abnormal delays.
+
+🌐 Network Path Analysis — IPv6 Traceroute to Google
+This project demonstrates how to analyze the full IPv6 routing path between your machine and Google’s servers using the traceroute -6 command. It helps identify latency patterns, ISP routing behavior, and potential bottlenecks across IPv6 infrastructure.
+
+![IPv6 Traceroute Screenshot](images/traceroute-ipv6.png)
+
+🧪 What This Test Shows
+Executed an IPv6 traceroute to google.com to map the end‑to‑end route over IPv6.
+
+Identified hops through local gateway, Spectrum/Charter ISP nodes, and backbone routers.
+
+Observed several hops returning * * *, which is normal when routers block ICMPv6 responses.
+
+Verified successful routing to Google’s IPv6 server (1e100.net) at the final hop.
+
+Final latency averaged around 21–23 ms, indicating a healthy IPv6 connection.
+
+Demonstrated ability to use traceroute for IPv6 diagnostics and route visibility.
+
+📊 Output Summary
+Multiple hops responded with IPv6 addresses and hostnames.
+
+Some intermediate routers did not respond (timeouts), which is expected behavior.
+
+Final hop resolved to a Google IPv6 endpoint with stable latency.
+
+Confirms that IPv6 routing is functioning correctly from your network through your ISP to Google.
