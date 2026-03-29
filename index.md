@@ -3,7 +3,7 @@
 Welcome to my portfolio showcasing hands-on labs in IT support, networking, security, cloud engineering, and AI.
 
 ## 🔧 Projects
--Ping Project /n
+-Ping Project \n
 <a href="https://photos.app.goo.gl/DJdozU2xHschhxpU6" </a>
 
 ## 🎓 Certifications 
