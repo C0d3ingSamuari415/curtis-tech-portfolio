@@ -3,7 +3,7 @@
 Welcome to my portfolio showcasing hands-on labs in IT support, networking, security, cloud engineering, and AI.
 
 ## 🔧 Projects
-![Ping Test Screenshot](images/<img src="blob:chrome-untrusted://media-app/8aefae59-cf5c-4e34-85a8-4c0ea4e654aa" alt="ping project-1.png"/>) \n
+![Ping Test Screenshot]
 -Performed a network connectivity test using the ping command.
 -Sent 6 ICMP echo requests to google.com to measure latency and packet reliability.
 -Verified 0% packet loss, confirming a stable and healthy network connection.
