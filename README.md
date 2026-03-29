@@ -38,6 +38,7 @@ Verified final hop reached Google’s infrastructure (1e100.net) with ~22 ms lat
 Demonstrated ability to use traceroute for network diagnostics and route analysis.
 
 📊 Output Summary:
+
 12 hops were required to reach Google’s server.
 
 Local gateway and LAN responded normally.
@@ -69,6 +70,7 @@ Final latency averaged around 21–23 ms, indicating a healthy IPv6 connection.
 Demonstrated ability to use traceroute for IPv6 diagnostics and route visibility.
 
 📊 Output Summary
+
 Multiple hops responded with IPv6 addresses and hostnames.
 
 Some intermediate routers did not respond (timeouts), which is expected behavior.
