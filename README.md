@@ -22,7 +22,7 @@ Showcased ability to interpret RTT statistics (min/avg/max/mdev) for performance
 🌐 Network Path Analysis — Traceroute to Google
 This project demonstrates how to analyze the path packets take across the Internet using the traceroute command. It reveals each hop between your machine and Google’s servers, helping diagnose routing issues, latency spikes, or ISP‑level problems.
 
-![Traceroute Screenshot](images/traceroute-google.png)
+![Traceroute Screenshot](images/traceroute-ipv4.png)
 
 🧪 What This Test Shows:
 Ran a IPv4 traceroute to google.com to map the full network path.
