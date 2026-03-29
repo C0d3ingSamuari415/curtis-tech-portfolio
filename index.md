@@ -3,6 +3,12 @@
 Welcome to my portfolio showcasing hands-on labs in IT support, networking, security, cloud engineering, and AI.
 
 ## 🔧 Projects
+![Ping Test Screenshot](images/ping-test.png)
+-Performed a network connectivity test using the ping command.
+-Sent 6 ICMP echo requests to google.com to measure latency and packet reliability.
+-Verified 0% packet loss, confirming a stable and healthy network connection.
+-Observed consistent round‑trip times between 19–22 ms, indicating low latency.
+-Demonstrated ability to use basic Linux networking tools for troubleshooting and diagnostics.
 
 
 ## 🎓 Certifications 
