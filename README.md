@@ -3,7 +3,8 @@ I’m a cybersecurity and operations professional with hands‑on experience in 
 
 My background blends security, risk, customer operations, and audit, giving me a unique ability to investigate issues, validate results, and communicate effectively with both technical and non‑technical stakeholders.
 
-🔐 Core Cybersecurity Skills
+🔐 Core Cybersecurity Skills:
+
 * SIEM Log Analysis (Splunk, Azure Sentinel)
 
 *Threat Detection & Investigation
@@ -20,6 +21,21 @@ My background blends security, risk, customer operations, and audit, giving me a
 
 *Windows, Linux, macOS
 
+📊 Operational & Audit Skills:
+
+*Operational Audits & QA Reviews
+
+*SOP Development & Process Improvement
+
+*Performance Metrics & Root‑Cause Analysis
+
+*Cross‑Functional Collaboration
+
+*Documentation & Reporting
+
+*Customer Service, Claims & Enrollment Processing
+
+*Training: 1:1, Webinars, Help Desk Support
 
 ## NETWORK SECTION##
 
