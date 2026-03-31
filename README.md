@@ -65,6 +65,34 @@ Operational audit checklists, SOP examples, and performance analysis templates.
 
 *Google Cybersecurity Certificate
 
+🧰 Tools & Technologies:
+
+Security: Splunk, Azure Sentinel, Microsoft Defender, EDR Tools
+
+IAM: Active Directory, Azure AD, MFA, SSO
+
+Networking: TCP/IP, DNS, VPN, Firewalls
+
+Scripting: Python, SQL, Bash
+
+Documentation: Markdown, Confluence, SOP Writing
+
+📈 What I’m Working On:
+
+Building a full SOC‑style detection and response lab
+
+Publishing weekly SIEM analysis exercises
+
+Creating audit and compliance documentation templates
+
+Expanding Python automation projects
+
+📫 Let’s Connect
+If you’re looking for a cybersecurity analyst with strong analytical, audit, and documentation skills, feel free to reach out.
+
+Email: curtisnichols415@gmail.com
+GitHub: github.com/C0d3ingSamuari415
+
 ## NETWORK SECTION##
 
 📡 Network Connectivity Test — Ping Diagnostic
