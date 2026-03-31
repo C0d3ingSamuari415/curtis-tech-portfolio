@@ -3,6 +3,17 @@ I’m a cybersecurity and operations professional with hands‑on experience in 
 
 My background blends security, risk, customer operations, and audit, giving me a unique ability to investigate issues, validate results, and communicate effectively with both technical and non‑technical stakeholders.
 
+🔐 Core Cybersecurity Skills
+* SIEM Log Analysis (Splunk, Azure Sentinel)
+*Threat Detection & Investigation
+*Identity Verification & Fraud Analysis
+*Incident Response Documentation
+*MITRE ATT&CK Mapping
+*Risk Assessment & Anomaly Detection
+*Python & Bash for Automation
+*Windows, Linux, macOS
+
+
 ## NETWORK SECTION##
 
 📡 Network Connectivity Test — Ping Diagnostic
