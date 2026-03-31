@@ -37,6 +37,26 @@ My background blends security, risk, customer operations, and audit, giving me a
 
 *Training: 1:1, Webinars, Help Desk Support
 
+🛠️ Projects:
+
+Here are the projects I’m building to showcase my cybersecurity and audit capabilities:
+
+🔎 SIEM Log Analysis — Splunk & Sentinel:
+Hands‑on investigations of authentication anomalies, failed logins, privilege escalation attempts, and suspicious user behavior.
+Includes: queries, screenshots, findings, and IR‑style documentation.
+
+🛡️ Threat Detection Engineering:
+Detection rules mapped to MITRE ATT&CK, KQL queries, and Sigma‑style detections.
+
+🐍 Python Log Parser:
+A Python script that parses logs, extracts failed logins, and flags anomalies.
+
+📁 Incident Response Write‑Ups:
+Scenario‑based IR reports documenting indicators, analysis steps, and remediation.
+
+📘 Audit & SOP Toolkit:
+Operational audit checklists, SOP examples, and performance analysis templates.
+
 ## NETWORK SECTION##
 
 📡 Network Connectivity Test — Ping Diagnostic
