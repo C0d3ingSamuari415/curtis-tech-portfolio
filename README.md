@@ -57,6 +57,14 @@ Scenario‑based IR reports documenting indicators, analysis steps, and remediat
 📘 Audit & SOP Toolkit:
 Operational audit checklists, SOP examples, and performance analysis templates.
 
+🎓 Certifications:
+
+*CompTIA Security+
+
+*CompTIA A+
+
+*Google Cybersecurity Certificate
+
 ## NETWORK SECTION##
 
 📡 Network Connectivity Test — Ping Diagnostic
