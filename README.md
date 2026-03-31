@@ -5,12 +5,19 @@ My background blends security, risk, customer operations, and audit, giving me a
 
 🔐 Core Cybersecurity Skills
 * SIEM Log Analysis (Splunk, Azure Sentinel)
+  
 *Threat Detection & Investigation
+
 *Identity Verification & Fraud Analysis
+
 *Incident Response Documentation
+
 *MITRE ATT&CK Mapping
+
 *Risk Assessment & Anomaly Detection
+
 *Python & Bash for Automation
+
 *Windows, Linux, macOS
 
 
