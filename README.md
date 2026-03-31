@@ -1,5 +1,7 @@
-# Curtis Tech Projects Portfolio
-Full Tech Portfolio, including projects
+👋 Hi, I'm Curtis — Cybersecurity Analyst | Threat Detection | Audit & Compliance
+I’m a cybersecurity and operations professional with hands‑on experience in SIEM log analysis, fraud detection, identity verification, operational audits, SOP development, and cross‑functional performance improvement. I specialize in analyzing data, identifying anomalies, improving processes, and documenting findings with clarity and accuracy.
+
+My background blends security, risk, customer operations, and audit, giving me a unique ability to investigate issues, validate results, and communicate effectively with both technical and non‑technical stakeholders.
 
 ## NETWORK SECTION##
 
